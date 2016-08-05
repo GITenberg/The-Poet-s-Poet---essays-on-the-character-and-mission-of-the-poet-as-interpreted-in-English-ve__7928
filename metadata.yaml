@@ -1,0 +1,27 @@
+_repo: The-Poet-s-Poet---essays-on-the-character-and-mission-of-the-poet-as-interpreted-in-English-ve__7928
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atkins, Elizabeth
+    birthdate: 1891
+    gutenberg_agent_id: '2576'
+    url: http://www.gutenberg.org/2009/agents/2576
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'American poetry -- History and criticism'
+- !lcc 'PS'
+- !lcc 'PR'
+- !lcsh 'English poetry -- History and criticism'
+- GITenberg
+title: 'The Poet''s Poet : essays on the character and mission of the poet as interpreted
+  in English verse of the last one hundred and fifty years'
+url: http://www.gutenberg.org/ebooks/7928
